@@ -1,0 +1,17 @@
+# "git log --oneline --graph --all" explained:
+
+
+git log:
+shows commit logs
+
+
+--oneline:
+shows minimum data and explainations about the commit ( no date, time, etc...)
+
+
+--graph:
+Draw a text-based graphical representation of the commit history on the left hand side of the output.
+
+
+--all:
+Pretend as if all the refs in refs/ are listed on the command line as <commit>.
